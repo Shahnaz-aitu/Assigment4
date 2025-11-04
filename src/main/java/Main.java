@@ -121,6 +121,5 @@ public class Main {
 
         System.out.println("\nMetrics snapshot: " + metrics.snapshot());
         System.out.println("\nWeight model (from JSON): " + weightModel);
-
     }
 }
